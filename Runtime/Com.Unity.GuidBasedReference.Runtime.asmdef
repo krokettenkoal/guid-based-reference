@@ -1,0 +1,16 @@
+{
+    "name": "Com.Unity.GuidBasedReference.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:acff003b3a42db14896dbaa0d56951b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

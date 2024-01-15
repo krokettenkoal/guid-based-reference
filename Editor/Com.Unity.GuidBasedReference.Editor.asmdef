@@ -1,0 +1,19 @@
+{
+    "name": "Com.Unity.GuidBasedReference.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:acff003b3a42db14896dbaa0d56951b5",
+        "GUID:21793a0da9897054eb2640b79b94700e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
