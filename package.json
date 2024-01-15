@@ -1,0 +1,21 @@
+{
+	"name": "com.unity.guid-based-reference",
+	"version": "0.0.1",
+	"description": " A component to give a Globaly Unique IDentifier (GUID) to a Game Object",
+	"displayName": "Guid Based Reference",
+	"unity": "2020.3",
+	"hideInEditor": false,
+	"author": {
+		"name": "William Armstrong",
+		"email": "williama@unity3d.com",
+		"url": "https://unity.com/"
+	},
+	"documentationUrl": "https://github.com/krokettenkoal/guid-based-reference",
+	"license": "See LICENSE.md file",
+	"licensesUrl": "https://github.com/krokettenkoal/guid-based-reference/blob/master/LICENSE.md",
+	"repository": {
+	"type": "git",
+	"url": "https://github.com/krokettenkoal/guid-based-reference/"
+	},
+	"keywords": ["guid", "runtime", "editor"]
+}
